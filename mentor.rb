@@ -7,7 +7,7 @@ class Mentor
  end
 
  def job
-  puts"#{self.name}です。私は現役のITプロフェッショナルです"
+  puts"#{self.name}です。私は現役のITプロフェッショナルです。"
  end
 end
 
